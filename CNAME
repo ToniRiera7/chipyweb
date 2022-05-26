@@ -1,5 +1,1 @@
-$ dig WWW.chipywebsite.COM +nostats +nocomments +nocmd
-    > ;WWW.chipywebsite.COM.                     IN      A
-    > WWW.chipywebsite.COM.              3592    IN      CNAME   ToniRiera7.github.io.
-    > ToniRiera7.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+www.chipyweb.com
